@@ -3,9 +3,9 @@
 Docpat is a medical android app which deals and solves issues of both patients and doctors. 
 
 # PROJECT DEVELOPED BY    
- # ROHITH D ANAND  
- # RAJAT RAGHAVENDRA HEGDE
- # VIJAYKUMAR A B   
+  ROHITH D ANAND  
+  RAJAT RAGHAVENDRA HEGDE     
+  VIJAYKUMAR A B   
    
 # APK to project(APP)
 Rename the .txt file into .apk before installing the app
