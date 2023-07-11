@@ -46,8 +46,8 @@ enum class Doctor {
 
     fun toDisplayString(): String {
         return if (this == IS_DOCTOR) {
-            "Yes, I'm a Doctor"
-        } else "No, I'm not a Doctor"
+            "Doctor"
+        } else "Patient"
     }
 
     fun toItemString(): String {

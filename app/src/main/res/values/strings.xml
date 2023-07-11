@@ -9,7 +9,7 @@
     <string name="dropdown_label">Disease Name:</string>
     <string name="disease_name">Disease Name</string>
     <string name="specialization">Specialization</string>
-    <string name="mailTo">mailto:geekymusketeers2024@gmail.com?Subject=Medify%20Android%20application%20feedback%20main&amp;Body=Your%20feedback%20is%20important%20to%20us%21</string>
+    <string name="mailTo">mailto:rohithdanand2019@gmail.com?Subject=Medify%20Android%20application%20feedback%20main&amp;Body=Your%20feedback%20is%20important%20to%20us%21</string>
     <string name="situation">Situation</string>
     <string name="cardiologist">Cardiologist</string>
     <string name="dentist">Dentist</string>
@@ -170,9 +170,9 @@
     <string name="create_a_new_account">Create a new account</string>
     <string name="password_hint">***************</string>
     <string name="phone_number_hint">+91 9876543210</string>
-    <string name="email_hint">johndoe123@gmail.com</string>
+    <string name="email_hint">example@gmail.com</string>
     <string name="email">Email</string>
-    <string name="name_hint">John Doe</string>
+    <string name="name_hint">Your Name</string>
     <string name="name">Name</string>
     <string name="phone_number">Phone Number</string>
     <string name="password">Password</string>
@@ -180,8 +180,8 @@
     <string name="already_have_an_account">Already have an account?</string>
     <string name="login_text">Login</string>
     <string name="profile_details">Profile Details</string>
-    <string name="address_hint">42/C Devanagari, Bangalore - XXXXXX</string>
-    <string name="is_doctor_hint">No, I\'m not a Doctor</string>
+    <string name="address_hint"> MYSURU - XXXXXX</string>
+    <string name="is_doctor_hint">Patient</string>
     <string name="are_you_a_doctor">Are you a Doctor?</string>
     <string name="address">Address</string>
     <string name="specialization_hint">Eg. Cardiologist</string>
@@ -190,7 +190,7 @@
     <string name="account_creation_failed">Account Creation Failed</string>
     <string name="database_creation_failed">Database Creation Failed</string>
     <string name="account_created_successfully">Account Created Successfully</string>
-    <string name="please_select_your_profession">Please select your profession</string>
+    <string name="please_select_your_profession">Please Select </string>
     <string name="please_select_your_specialization">Please select your Specialization</string>
     <string name="please_select_your_gender">Please select your gender</string>
     <string name="login">Login</string>
@@ -217,9 +217,9 @@
     <string name="profile_updated_successfully">Profile updated Successfully!</string>
     <string name="failed_to_update_profile">Failed to update Profile!</string>
     <string name="no_address_found">No address found</string>
-    <string name="welcome_to_medify">Welcome to Medify</string>
-    <string name="description">Medify is an Android application that not only solves the issue of the patients as users, but also solves the problems of the doctors as well.\nThe app offers users to book an appointment with the doctor that are registered in the app already.\nThe waiting queue is sorted according to the priority and not ‘First Come First Serve’ which allows all the patients to get equal priority.\nUsers can monitor their health data which is shown in a chart of last 5 data from their report.</string>
-    <string name="needHelpDescription">Medify is an Android application that not only solves the issue of the patients as users, but also solves the problems of the doctors as well.\nBook an appointment with ease by answering some questions regarding your health issue.\nDo not need the carry the previous prescription to doctor just upload it here and when you book appointment the doctor can easily see your previous prescription.</string>
+    <string name="welcome_to_medify">Welcome to DOCPAT</string>
+    <string name="description">DOCPAT is an Android application that not only solves the issue of the patients as users, but also solves the problems of the doctors as well.\nThe app offers users to book an appointment with the doctor that are registered in the app already.\nThe waiting queue is sorted according to the priority and not ‘First Come First Serve’ which allows all the patients to get equal priority.\nUsers can monitor their health data which is shown in a chart of last 5 data from their report.</string>
+    <string name="needHelpDescription">DOCPAT is an Android application that not only solves the issue of the patients as users, but also solves the problems of the doctors as well.\nBook an appointment with ease by answering some questions regarding your health issue.\nDo not need the carry the previous prescription to doctor just upload it here and when you book appointment the doctor can easily see your previous prescription.</string>
 
 
 </resources>
