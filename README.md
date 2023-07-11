@@ -32,7 +32,6 @@ The users can monitor their health data which is shown in a chart of last 5 data
 The users have to answer some questions regarding their issue, this way the appointment is booked.
 
 - <b>Statistics:</b> The user can add and monitor their past 5 data of health reports which is displayed using charts.
-
 - 
 # Project Report 
 [DOCPAT1 re.pdf](https://github.com/rohithdanand/Doctor-Patient-AppointmentAPP/files/12015690/DOCPAT1.re.pdf)
