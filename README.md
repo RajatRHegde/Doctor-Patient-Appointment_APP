@@ -1,7 +1,9 @@
 
 # DOCPAT 
 Docpat is a medical android app which deals and solves issues of both patients and doctors. 
-
+# APK to project(APP)
+Rename the .txt file into .apk before installing the app
+[DOCPAT.txt](https://github.com/rohithdanand/Doctor-Patient-AppointmentAPP/files/12015815/DOCPAT.txt)
 # Our Idea 
 Docpat is an Android application that not only solves the issue of the patients as users, but also solves the problems of the doctors as well.
  
