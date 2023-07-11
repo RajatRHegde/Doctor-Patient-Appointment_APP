@@ -1,5 +1,3 @@
-![Cover]([https://github.com/aritra-tech/Medify/assets/62587060/7a8cbbf3-d1c9-4e2f-8a6b-fb480a0714d5](https://github.com/rohithdanand/Doctor-Patient-AppointmentAPP.git))
-
 
 # DOCPAT 💊
 Docpat is a medical android app which deals and solves issues of both patients and doctors. 
